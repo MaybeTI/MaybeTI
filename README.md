@@ -7,8 +7,9 @@
 ---
 
 ### :man_technologist: About Me 
-
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+<p align="left">
+Hello, my name is Bogdan Lysachenko, and I am a Python Developer based in Ukraine. I have a strong passion for collaboration and teamwork and have experience working on web applications. I take pride in my ability to solve complex problems and deliver high-quality results. In addition to my technical skills, I have a strong background in teamwork, having excelled in soccer as a child. I also have a deep interest in languages and cultures, having studied Chinese at the Kyiv Gymnasium of Oriental Languages and participated in various language and cultural events. I am always ready to learn and take on new challenges, and I believe that my skills and experience make me a valuable addition to any team.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
